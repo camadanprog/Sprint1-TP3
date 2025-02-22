@@ -1,0 +1,14 @@
+[
+  {"id":11,
+   "nombreSuperheroe":"Dev CaMaDan",
+   "nombreReal":"Castro Mario Dante",
+   "nombreSociedad":"CaMaDan",
+   "edad":44,
+   "planetaOrigen":"Tierra",
+   "debilidad":["probablemente la <Criptonita>, la <pizzanita> y la <milanita>"],
+   "poder":"La Informática",
+   "habilidadEspecial":["Reparación y mantenimiento de equipos informáticos, Programar."],
+   "aliado":["RupaBoy"],
+   "enemigo":["Café descafeinado"]
+  }  
+]
